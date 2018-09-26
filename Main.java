@@ -72,9 +72,56 @@ public class Main {
 //            System.out.println("閏年");
 //        else System.out.println("平年");
 
+------------------------------------------------------------------------------------------------------------------------------
+
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+//        Scanner scn=new Scanner(System.in);
+//        char cn=scn.next().charAt(0);
+//        System.out.println((int)cn);
+//
+//        Scanner scn=new Scanner(System.in);
+//        char cn=scn.next().charAt(0);
+//        System.out.println(Integer.toHexString(cn));
+
+//        Scanner scn=new Scanner(System.in);
+//        String str=scn.next();
+//        int v1=Integer.parseInt(str, 16 );
+//        System.out.println((char)v1);
+
+//        Scanner scn=new Scanner(System.in);
+//        System.out.println("輸入身高 性別(男1,女2)");
+//        int h=scn.nextInt();
+//        int type=scn.nextInt();
+//        if (type == 1){
+//            System.out.println( h -80*0.7 );
+//        }else
+//            System.out.println(h-70*0.6);
 
 
+//        Scanner scn=new Scanner(System.in);
+//        int v1=scn.nextInt();
+//        System.out.println(Math.sqrt(v1)*10);
 
+
+//          Scanner scn=new Scanner(System.in);
+//          int n=scn.nextInt();
+//          int v1=scn.nextInt();
+//          int v2=scn.nextInt();
+//          int v3=scn.nextInt();
+//          int r=n-(v1+v2+v3);
+//          if (r<0){
+//              System.out.println("0");}
+//              else {
+//              System.out.println(r/50);
+//              r=r%50;
+//              System.out.println(r/5);
+//              System.out.println(r%5);}
+
+           Scanner scn=new Scanner(System.in);
 
 
 
